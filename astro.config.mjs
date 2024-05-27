@@ -25,9 +25,6 @@ export default defineConfig({
       registerType: 'autoUpdate',
       injectRegister: 'inline',
       manifest: {
-        // name: 'Gemini Pro Chat',
-        // short_name: 'Gemini Pro',
-        // description: 'Minimal web UI for Gemini Pro.',
         name: 'SpaceIndex Chat',
         short_name: 'SpaceIndex',
         description: 'Minimal web UI for SpaceIndex.',
